@@ -1,0 +1,4 @@
+plotly
+tensorflow
+matplotlib
+jupyter
